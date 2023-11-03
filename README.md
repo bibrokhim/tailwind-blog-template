@@ -1,4 +1,4 @@
-# tailwind-blog-template
+# Tailwind blog template
 Minimal tailwind HTML blog template. 
 HTML version of [tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
