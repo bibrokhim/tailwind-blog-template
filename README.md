@@ -7,5 +7,7 @@ This template uses:
 - [Prism](https://prismjs.com/)
 - [Alpinejs](https://alpinejs.dev/)
 
+Demo: [https://ibrohimov.com/tailwind-blog/pages/index.html](https://ibrohimov.com/tailwind-blog/pages/index.html)
+
 ## Licence
 MIT
